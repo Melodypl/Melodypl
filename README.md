@@ -67,6 +67,19 @@
   <a href="pj.contactgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/pjgiovanagoncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 
+<!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,tailwind,bootstrap,nexjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=c,ruby,ubuntu,python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,java,googlecloud,firebase" /><br>
+</div>
+
+<br/>
   
 
 
