@@ -27,65 +27,137 @@
 
 
 
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
+# ☁️ **Hello, I'm Giovana**
+
+I'm a passionate **Full Stack Developer** with a strong focus on **Back-End Engineering, Automation, and Cloud Computing**.  
+I thrive at the intersection of logic, scalability, and innovation designing systems that are efficient, reliable, and built to last.
+
+My experience spans across **API development**, **infrastructure automation**, **DevOps pipelines**, and **modern cloud platforms**.  
+I love solving complex technical challenges, optimizing processes, and bringing structure and intelligence to every line of code.
+
+---
+
+##  **Featured Projects**
+
+### 🧠 Data Analysis Platform
+A **web application for advanced data analytics**, designed to transform raw datasets into actionable insights through **interactive visualizations**.  
+- Implements automated data aggregation and real-time statistics generation.  
+- Built with a modular architecture, focusing on scalability and performance.  
+- Ideal for environments requiring **automated reporting and intelligent data insights**.
+
+### 🤖 VagaAlertBot (with Ollama Integration)
+An **AI-powered Discord bot** that helps users find **tech job opportunities** with precision.  
+- Features **custom filters** for job area, stack, and location.  
+- Integrated with **Ollama** for intelligent summarization and personalized responses.  
+- Designed with clean architecture principles and a focus on **automation and extensibility**.
+
+---
+
+## **About Me**
+
+- 💻 Experienced in **Full Stack Development**, with deep expertise in **Back-End, APIs, and System Design**.  
+- ☁️ Proficient in **Cloud Platforms (AWS, Azure, GCP)** and **DevOps practices** like CI/CD, containerization, and infrastructure as code.  
+- ⚙️ Skilled in **automation, scripting**, and building systems that work seamlessly at scale.  
+- 🧩 Solid understanding of **databases**, **software architecture**, and **performance optimization**.  
+- 🔍 Passionate about **logic, efficiency, and building impactful solutions** that make technology smarter and more autonomous.
+
+---
+<span style="color:#E34F26">Front-End</span>
+
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=react" title="React"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js"/></code>
+
+<span style="color:#007ACC">Back-End</span>
+
+<code><img width="45px" src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=express" title="Express"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=django" title="Django"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=flask" title="Flask"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/></code>
+<code><img width="45px" src="https://imgs.search.brave.com/-ItAAxQb_lhu7H_ixxmWZZdCWojuBHeHsZapXpYIW3U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjY5OS9Q/TkcvOTYvZ29sYW5n/X2xvZ29faWNvbl8x/NzEwNzMucG5n" title="Go"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
+
+<span style="color:#F29111">*Banco de Dados*</span>
+
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=firebase" title="Firebase"/></code>
+
+<span style="color:#4F46E5">Cloud & DevOps</span>
+
+<code><img width="45px" src="https://skillicons.dev/icons?i=aws" title="AWS"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=azure" title="Azure"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=docker" title="Docker"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=heroku" title="Heroku"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=vercel" title="Vercel"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=netlify" title="Netlify"/></code>
+
+<span style="color:#F29111">*Ferramentas & Linguagens Extras* </span>
 
 
-<!-- Greeting -->
-</h1>
-<h1 align="center"> Hello, I'm 𝒢iovana</h1>
-
-<h4 align="left">I'm a Computer Science student focused on back-end development and API design. I have hands-on experience with version control using Git and GitHub, relational and non-relational databases, and full stack web development using modern technologies.
-
-Currently, I'm deepening my knowledge in infrastructure, CI/CD, DevOps, and cloud computing. I'm always seeking to improve my technical skills, and I thrive in environments that demand autonomy, organization, and proactive problem-solving.
-
-I'm involved in real-world projects such as:
-
-↪ Data Analysis Platform: a web application for data analysis, enabling users to generate automated statistics and visualize insights through interactive charts.
-
-↪ VagaAlertBot (in progress): a Discord bot that notifies users about job opportunities, with custom filters for area, tech stack, and location.
 
 
-</h4>
-
-
-
-
- <h3 align="left">About Me</h3>
-
-
-<h4> 
-My background includes experience with:
-
-● Back-end and full stack development using modern web technologies.</br>
-
-● Cloud platforms, databases, and version control systems like Git.</br>
-
-● Operating systems, computer architecture, and low-level computing concepts.</br>
-
-I’m continuously evolving as a developer, working on meaningful projects, and preparing to face real-world tech challenges with confidence and curiosity..</br>
-
-</h4> <div align="left"> 
-
+<p align="center">
 
   
+  <code><img width="45px" src="https://skillicons.dev/icons?i=c" title="C" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=cpp" title="C++" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=rust" title="Rust" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=lua" title="Lua" /></code>
+  <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" title="Julia" /></code>
+  <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=bash" title="Bash" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=linux" title="Linux" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=git" title="Git" /></code>
+  <code><img width="45px" src="https://skillicons.dev/icons?i=github" title="GitHub" /></code>
+  <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></code>
+  <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" /></code>
+  <code><img width="45px" src="https://imgs.search.brave.com/AYuIivs1Lc9eLu1qZh_eyABbDDhMp5g5xLOOel6HfHs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZHJSRG1aMl9G/L3cvNDAwL2gvNDAw/L3RoZW1lL2Rhcmsv/aWNvbi5qcGVnP2M9/MWJ4aWQ2NE11cDdh/Y3pld1NBWU1YJnQ9/MTc0Nzc0NDA3MTMy/NQ" title="Ollama (Local LLM)" /></code>
+</p>
 
-  <a href="pj.contactgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/pjgiovanagoncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 
-<!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
-<br/>
+<span style="color:#EC4899">Design & Prototipagem</span>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,tailwind,bootstrap,nexjs" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br>
-    <img src="https://skillicons.dev/icons?i=c,ruby,ubuntu,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,java,googlecloud,firebase" /><br>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" title="Inkscape"/></code>
+<code><img width="45px" src="https://devicon-website.vercel.app/api/gimp/original.svg" title="GIMP"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=blender" title="Blender"/></code>
+
+<span style="color:#10B981">IDEs & Produtividade</span>
+
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=vscode" title="VSCode"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
+<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
+<code><img width="45px" src="https://skillicons.dev/icons?i=notion" title="Notion"/></code>
+
 </div>
+---
 
-<br/>
-  
+## 🌍 My Vision
 
+I’m constantly evolving as a developer seeking to push my technical boundaries, master the back-end ecosystem, and craft solutions that merge logic, and creativity.  
+For me, development is not just about code it’s about **architecture, intelligence, and purpose**.
 
+---
