@@ -56,7 +56,7 @@ An **AI-powered Discord bot** that helps users find **tech job opportunities** w
 ## **About Me**
 
 - 💻 Experienced in **Full Stack Development**, with deep expertise in **Back-End, APIs, and System Design**.  
-- ☁️ Proficient in **Cloud Platforms (AWS, Azure, GCP)** and **DevOps practices** like CI/CD, containerization, and infrastructure as code.  
+- ☁️ Proficient in **Cloud Platforms (Azure, GCP)** and **DevOps practices** like CI/CD, containerization, and infrastructure as code.  
 - ⚙️ Skilled in **automation, scripting**, and building systems that work seamlessly at scale.  
 - 🧩 Solid understanding of **databases**, **software architecture**, and **performance optimization**.  
 - 🔍 Passionate about **logic, efficiency, and building impactful solutions** that make technology smarter and more autonomous.
