@@ -99,12 +99,10 @@ An **AI-powered Discord bot** that helps users find **tech job opportunities** w
 
 <span style="color:#4F46E5">Cloud & DevOps</span>
 
-<code><img width="45px" src="https://skillicons.dev/icons?i=aws" title="AWS"/></code>
 <code><img width="45px" src="https://skillicons.dev/icons?i=azure" title="Azure"/></code>
 <code><img width="45px" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud"/></code>
 <code><img width="45px" src="https://skillicons.dev/icons?i=docker" title="Docker"/></code>
 <code><img width="45px" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/></code>
-<code><img width="45px" src="https://skillicons.dev/icons?i=heroku" title="Heroku"/></code>
 <code><img width="45px" src="https://skillicons.dev/icons?i=vercel" title="Vercel"/></code>
 <code><img width="45px" src="https://skillicons.dev/icons?i=netlify" title="Netlify"/></code>
 
