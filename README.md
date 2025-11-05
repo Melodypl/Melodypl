@@ -117,7 +117,6 @@ An **AI-powered Discord bot** that helps users find **tech job opportunities** w
   <code><img width="45px" src="https://skillicons.dev/icons?i=c" title="C" /></code>
   <code><img width="45px" src="https://skillicons.dev/icons?i=cpp" title="C++" /></code>
   <code><img width="45px" src="https://skillicons.dev/icons?i=rust" title="Rust" /></code>
-  <code><img width="45px" src="https://skillicons.dev/icons?i=lua" title="Lua" /></code>
   <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" title="Julia" /></code>
   <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" /></code>
   <code><img width="45px" src="https://skillicons.dev/icons?i=bash" title="Bash" /></code>
